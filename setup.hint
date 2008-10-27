@@ -1,4 +1,4 @@
 category: X11
-requires: cygwin libX11_6 libXmuu1
-sdesc: "Xorg X server property displayer"
-ldesc: "Xorg X server property displayer"
+requires: cygwin libX11_6
+sdesc: "X.Org X server property displayer"
+ldesc: "X.Org X server property displayer"
