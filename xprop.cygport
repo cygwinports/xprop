@@ -1,7 +1,7 @@
 inherit xorg
 
 NAME="xprop"
-VERSION=1.2.1
+VERSION=1.2.2
 RELEASE=1
 CATEGORY="X11"
 SUMMARY="X.Org X server property displayer"
